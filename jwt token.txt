@@ -1,0 +1,21 @@
+jwt token
+ouath 1.0,2.0
+
+Create {manual}
+1.Repository
+2.profile
+3.your repository
+4.new
+
+Create
+name
+Description 
+public/private
+create repository
+
+APi
+1.developers
+rest api
+repo create repo for authorization
+
+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
